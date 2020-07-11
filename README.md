@@ -1,16 +1,25 @@
-### Hi there 👋
+# [CodeLongAndProsper90](https://github.com/CodeLongAndProsper90)
 
-<!--
-**CodeLongAndProsper90/CodeLongAndProsper90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi!
 
-Here are some ideas to get you started:
+I can program in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- D
+- C
+- Java
+- NSpire-BASIC
+
+I've got several projects
+
+[Halibut](https://github.com/CodeLongAndProsper90/Halibut)
+
+[P₂P](https://github.com/CodeLongAndProsper90/P2P)
+
+[All the stuff on my repl.it](https://repl.it/@CodeLongAndPros)
+
+My Linux configs are at my [configs](github.com/CodeLongAndProsper90/configs) repo
+
+
+I use Vim, although EMACS is better for gaming (M-x tetris)
+

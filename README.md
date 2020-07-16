@@ -2,6 +2,10 @@
 
 Hi!
 
+Check out my [GitLab](https://gitlab.com/CodeLongAndProsper90).
+
+I only use GitHub because of Hacktoberfest. Take that, M$!
+
 I can program in:
 
 - Python

@@ -25,6 +25,6 @@ I've got several projects
 My Linux configs are at my [configs](github.com/CodeLongAndProsper90/configs) repo
 
 
-I use Manjaro Linux + SystemD with i3wm + KDE + GNU/ Stallman.
+I use Arch Linux + SystemD with  KDE + GNU/ Stallman.
 I use Vim, although EMACS is better for gaming (M-x tetris)
 

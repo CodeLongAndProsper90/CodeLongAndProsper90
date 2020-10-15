@@ -6,6 +6,7 @@ Check out my [GitLab](https://gitlab.com/CodeLongAndProsper90).
 
 I only use GitHub because of Hacktoberfest. Take that, M$!
 
+Currently focusing on [xkcdC](https://github.com/CodeLongAndProsper90/xkcdc)
 I can program in:
 
 - Python
